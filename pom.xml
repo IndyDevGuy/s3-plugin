@@ -21,6 +21,10 @@
 
     <developers>
         <developer>
+            <id>IndyDevGuy</id>
+            <name>Trey Ellis</name>
+        </developer>
+        <developer>
             <id>dougm</id>
             <name>Doug MacEachern</name>
         </developer>
@@ -110,4 +114,5 @@
             <url>http://repo.jenkins-ci.org/public/</url>
         </pluginRepository>
     </pluginRepositories>
+
 </project>
